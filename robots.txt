@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cyansee.github.io/sitemap.xml
